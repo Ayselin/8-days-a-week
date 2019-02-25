@@ -1,41 +1,25 @@
 import React from 'react';
 import ReactTextRotator from 'react-text-rotator';
 import './header.css';
-import CryptoCard from '../crypto/crypto';
+import Nav from '../Nav/Nav';
+import { HashLink as Link } from 'react-router-hash-link';
 
 
 export default function Header() {
-  const coinData = {
-    name: 'Bitcoin',
-    symbol: 'BTC',
-  }
-
     return (
-      <div className="Header" id="header-section">
-        <div className="nav-container">
-          <div className="container">
-            <div className="nav-bar">
-              <div className="header-logo">
-                <header>8 Days a Week</header>
-              </div>
-              <nav id="navigation">
-                <CryptoCard
-                  name={coinData.name}
-                  symbol={coinData.symbol}
-                />
-              </nav>
-            </div>
-          </div>
-        </div>
+      <div className='Header'>
+        <Nav />
         <div className="container">
           <div className="welcome-area">
             <div className="header-text text-center">
               <MyComponent />
             </div>
             <div className='arrow'>
-              <a href = '#timeline' ><span></span>
-              <span></span>
-              <span></span></a>
+              <Link to="/#timeline">
+                <span></span>
+                <span></span>
+                <span></span>
+              </Link>
             </div>
           </div>
         </div>
