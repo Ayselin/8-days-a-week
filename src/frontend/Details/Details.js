@@ -27,7 +27,9 @@ export default class Details extends Component {
 					<div className='details-container'>
 						<div className='details-box'>
 							<h2 className='details-title details-center-text'>Health & Fitness</h2>
+							<a href={day.fitness.link} alt='link to fitness'>
 							<img className='details-img' src={day.fitness.picture} alt={day.fitness.alt} />
+							</a>
 						</div>
 						<div className='details-box'>
 							<h2 className='details-title details-center-text'>Quote of the Day</h2>

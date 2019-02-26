@@ -13,7 +13,7 @@ let exercises = [
         instructions: "Perform the set: plank for 30 seconds, rest for 30 seconds. Repeat the set 5 times",
         lengthOfExercise: "5 Min",
         picture: src = { plank },
-        url='https://www.acefitness.org/education-and-resources/lifestyle/blog/6593/top-25-at-home-exercises'
+        link='https://www.acefitness.org/education-and-resources/lifestyle/blog/6593/top-25-at-home-exercises'
     },
     {
         name: "Push-Ups",
