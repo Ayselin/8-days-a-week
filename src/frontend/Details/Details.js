@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import './Details.css';
 import Nav from '../Nav/Nav';
 import getDays from '../getDays/getDays';
-import { Redirect } from 'react-router-dom';
+import { Redirect, Link } from 'react-router-dom';
 
 export default class Details extends Component {
 
@@ -61,6 +61,7 @@ export default class Details extends Component {
 							<a className='details-a' href= { day.bio.url }  target="_blank" rel="noopener noreferrer">
 								<p>Learn more ...</p>
 							</a>
+							<Link className='backBtn'to='/'>Back to Home</Link>
 						</div>
 					</div>
 				</div>
