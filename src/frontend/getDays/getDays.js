@@ -9,7 +9,7 @@ export default function getDays() {
       },
       quote: {
         quote: "Work hard for what you want because it won't come to you without a fight. You have to be strong and courageous and know that you can do anything you put your mind to. If somebody puts you down or criticizes you, just keep on believing in yourself and turn it into something positive.",
-        quoter: "Tracy Chou, Software Engineer at Pinterest"
+        quoter: "Leah LaBelle"
       },
       food: {
         name: "Creamy Avocado Dip",
@@ -18,10 +18,10 @@ export default function getDays() {
         url: "https://www.delish.com/cooking/recipe-ideas/recipes/a45365/creamy-avocado-dip-recipe/"
       },
       influencer: {
-        name: "Tracy Chou",
-        picture: require('./influencers/tracyChou.png'),
+        name: "Grace Hopper",
+        picture: require('./influencers/GraceHopper.jpg'),
         alt: "Tracy Chou",
-        url: "https://en.wikipedia.org/wiki/Tracy_Chou"
+        url: ''
       },
       bio: {
         bio: "Tracy Chou is a software engineer and advocate for diversity in her field. She has prior work experience at Pinterest, Quora and internship experience at Rocket Fuel, Google, and Facebook.",
@@ -37,7 +37,7 @@ export default function getDays() {
       },
       quote: {
         quote: "I think that life is difficult. People have challenges. Family members get sick, people get older, you don't always get the job or the promotion that you want. You have conflicts in your life. And really, life is about your resilience and your ability to go through your life and all of the ups and downs with a positive attitude. ",
-        quoter: "Tracy Chou, Software Engineer at Pinterest"
+        quoter: "Jennifer Hyman"
       },
       food: {
         name: "Caprese Avocado Toast",
@@ -46,9 +46,9 @@ export default function getDays() {
         url: "https://www.delish.com/cooking/recipe-ideas/recipes/a53555/greek-avocado-toast-recipe/"
       },
       influencer: {
-        name: "Tracy Chou",
-        picture: require('./influencers/tracyChou.png'),
-        alt: "Tracy Chou",
+        name:'Ellen Ullman',
+        picture: require('./influencers/UllmanEllen.jpg'),
+        alt: "Ellen Ullman",
         url: "https://en.wikipedia.org/wiki/Tracy_Chou"
       },
       bio: {
@@ -65,7 +65,7 @@ export default function getDays() {
       },
       quote: {
         quote: "Successful people maintain a positive focus in life no matter what is going on around them. They stay focused on their past successes rather than their past failures, and on the next action steps they need to take to get them closer to the fulfillment of their goals rather than all the other distractions that life presents to them. ",
-        quoter: "Tracy Chou, Software Engineer at Pinterest"
+        quoter: 'Jack Canfield'
       },
       food: {
         name: "Donut Apples",
@@ -74,9 +74,9 @@ export default function getDays() {
         url: "https://www.delish.com/cooking/recipe-ideas/recipes/a52053/donut-apples-recipe/"
       },
       influencer: {
-        name: "Tracy Chou",
-        picture: require('./influencers/tracyChou.png'),
-        alt: "Tracy Chou",
+        name: "Sheryl Sandberg",
+        picture: require('./influencers/SherylSandberg.jpg'),
+        alt: "Sheryl Sandberg",
         url: "https://en.wikipedia.org/wiki/Tracy_Chou"
       },
       bio: {
@@ -93,7 +93,7 @@ export default function getDays() {
       },
       quote: {
         quote: "Your attitude is like a box of crayons that color your world. Constantly color your picture gray, and your picture will always be bleak. Try adding some bright colors to the picture by including humor, and your picture begins to lighten up.",
-        quoter: "Tracy Chou, Software Engineer at Pinterest"
+        quoter: 'Allen Klein'
       },
       food: {
         name: "Cucumber Sushi",
@@ -102,9 +102,9 @@ export default function getDays() {
         url: "https://www.delish.com/cooking/recipe-ideas/recipes/a58629/cucumber-sushi-recipe/"
       },
       influencer: {
-        name: "Tracy Chou",
-        picture: require('./influencers/tracyChou.png'),
-        alt: "Tracy Chou",
+        name: "Ada Lovelace",
+        picture: require('./influencers/AdaLovelace.jpg'),
+        alt: "Ada Lovelace",
         url: "https://en.wikipedia.org/wiki/Tracy_Chou"
       },
       bio: {
@@ -120,8 +120,8 @@ export default function getDays() {
         url:'https://www.telegraph.co.uk/health-fitness/body/10-essential-yoga-poses-beginners/'
       },
       quote: {
-        quote: ") I realized that if my thoughts immediately affect my body, I should be careful about what I think. Now if I get angry, I ask myself why I feel that way. If I can find the source of my anger, I can turn that negative energy into something positive. ",
-        quoter: "Tracy Chou, Software Engineer at Pinterest"
+        quote: "I realized that if my thoughts immediately affect my body, I should be careful about what I think. Now if I get angry, I ask myself why I feel that way. If I can find the source of my anger, I can turn that negative energy into something positive. ",
+        quoter: 'Yoko Ono'
       },
       food: {
         name: "Greek Feta Dip",
@@ -130,9 +130,9 @@ export default function getDays() {
         url: "https://www.delish.com/cooking/recipe-ideas/recipes/a50968/greek-feta-dip-recipe/"
       },
       influencer: {
-        name: "Tracy Chou",
-        picture: require('./influencers/tracyChou.png'),
-        alt: "Tracy Chou",
+        name: "Margaret Hamilton",
+        picture: require('./influencers/MargaretHamilton.jpg'),
+        alt: "Margaret Hamilton",
         url: "https://en.wikipedia.org/wiki/Tracy_Chou"
       },
       bio: {
@@ -149,7 +149,7 @@ export default function getDays() {
       },
       quote: {
         quote: "Stop saying these negative things about yourself. Look in the mirror and find something about yourself that's positive and celebrate that!",
-        quoter: "Tracy Chou, Software Engineer at Pinterest"
+        quoter: 'Tyra Banks'
       },
       food: {
         name: "Creamy Garlic Hummus",
@@ -158,9 +158,9 @@ export default function getDays() {
         url: "https://www.delish.com/cooking/recipe-ideas/a20089167/best-homemade-hummus-recipe/"
       },
       influencer: {
-        name: "Tracy Chou",
-        picture: require('./influencers/tracyChou.png'),
-        alt: "Tracy Chou",
+        name: "Susan Wojcicki",
+        picture: require('./influencers/SusanWojcicki.jpg'),
+        alt: "Susan Wojcicki",
         url: "https://en.wikipedia.org/wiki/Tracy_Chou"
       },
       bio: {
@@ -177,7 +177,7 @@ export default function getDays() {
       },
       quote: {
         quote: "You are the sum total of everything you've ever seen, heard, eaten, smelled, been told, forgot - it's all there. Everything influences each of us, and because of that I try to make sure that my experiences are positive",
-        quoter: "Tracy Chou, Software Engineer at Pinterest"
+        quoter:'Maya Angelou'
       },
       food: {
         name: "Ricotta-Honey Toast with Berries",
@@ -186,9 +186,9 @@ export default function getDays() {
         url: "https://www.delish.com/cooking/recipe-ideas/recipes/a45367/ricotta-honey-toast-with-berries-recipe/"
       },
       influencer: {
-        name: "Tracy Chou",
-        picture: require('./influencers/tracyChou.png'),
-        alt: "Tracy Chou",
+        name: "Virginia Marie",
+        picture: require('./influencers/VirginiaMarie.jpg'),
+        alt: "Virginia Marie",
         url: "https://en.wikipedia.org/wiki/Tracy_Chou"
       },
       bio: {
@@ -205,7 +205,7 @@ export default function getDays() {
       },
       quote: {
         quote: "Leaders must exemplify integrity and earn the trust of their teams through their everyday actions. When you do this, you set high standards for everyone at your company. And when you do so with positive energy and enthusiasm for shared goals and purpose, you can deeply connect with your team and customers. ",
-        quoter: "Tracy Chou, Software Engineer at Pinterest"
+        quoter: 'Marillyn Hewson'
       },
       food: {
         name: "Zucchini Parmesan Chips",
@@ -214,9 +214,9 @@ export default function getDays() {
         url: "https://www.delish.com/cooking/recipe-ideas/recipes/a54806/zucchini-cheesy-bread-recipe/"
       },
       influencer: {
-        name: "Tracy Chou",
-        picture: require('./influencers/tracyChou.png'),
-        alt: "Tracy Chou",
+        name: "Ruth Bader Ginsburg",
+        picture: require('./influencers/RuthBaderGinsburg.jpg'),
+        alt: "Ruth Bader Ginsburg",
         url: "https://en.wikipedia.org/wiki/Tracy_Chou"
       },
       bio: {
