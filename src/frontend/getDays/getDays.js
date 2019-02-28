@@ -8,7 +8,7 @@ export default function getDays() {
         url:'https://www.acefitness.org/education-and-resources/lifestyle/blog/6593/top-25-at-home-exercises'
       },
       quote: {
-        quote: "I have very personally felt the overwhelming loneliness, self-doubt, and frustration that often comes with the minority status of a woman in engineering. As much as I can help others get through or avoid those difficult stretches that I myself had to weather, I’d like to. As a bonus, the more women (and minorities) that enter and don’t leave the field, the better it all gets for everyone, including me!",
+        quote: "Work hard for what you want because it won't come to you without a fight. You have to be strong and courageous and know that you can do anything you put your mind to. If somebody puts you down or criticizes you, just keep on believing in yourself and turn it into something positive.",
         quoter: "Tracy Chou, Software Engineer at Pinterest"
       },
       food: {
@@ -36,7 +36,7 @@ export default function getDays() {
         url:'https://www.livestrong.com/article/145556-exercises-to-improve-push-ups/'
       },
       quote: {
-        quote: "I have very personally felt the overwhelming loneliness, self-doubt, and frustration that often comes with the minority status of a woman in engineering. As much as I can help others get through or avoid those difficult stretches that I myself had to weather, I’d like to. As a bonus, the more women (and minorities) that enter and don’t leave the field, the better it all gets for everyone, including me!",
+        quote: "I think that life is difficult. People have challenges. Family members get sick, people get older, you don't always get the job or the promotion that you want. You have conflicts in your life. And really, life is about your resilience and your ability to go through your life and all of the ups and downs with a positive attitude. ",
         quoter: "Tracy Chou, Software Engineer at Pinterest"
       },
       food: {
@@ -64,7 +64,7 @@ export default function getDays() {
         url:'https://www.stylecraze.com/articles/sit-up-exercises-and-their-benefits/#gref'
       },
       quote: {
-        quote: "I have very personally felt the overwhelming loneliness, self-doubt, and frustration that often comes with the minority status of a woman in engineering. As much as I can help others get through or avoid those difficult stretches that I myself had to weather, I’d like to. As a bonus, the more women (and minorities) that enter and don’t leave the field, the better it all gets for everyone, including me!",
+        quote: "Successful people maintain a positive focus in life no matter what is going on around them. They stay focused on their past successes rather than their past failures, and on the next action steps they need to take to get them closer to the fulfillment of their goals rather than all the other distractions that life presents to them. ",
         quoter: "Tracy Chou, Software Engineer at Pinterest"
       },
       food: {
@@ -92,7 +92,7 @@ export default function getDays() {
         url:'https://www.nhs.uk/live-well/exercise/10-minute-home-cardio-workout/'
       },
       quote: {
-        quote: "I have very personally felt the overwhelming loneliness, self-doubt, and frustration that often comes with the minority status of a woman in engineering. As much as I can help others get through or avoid those difficult stretches that I myself had to weather, I’d like to. As a bonus, the more women (and minorities) that enter and don’t leave the field, the better it all gets for everyone, including me!",
+        quote: "Your attitude is like a box of crayons that color your world. Constantly color your picture gray, and your picture will always be bleak. Try adding some bright colors to the picture by including humor, and your picture begins to lighten up.",
         quoter: "Tracy Chou, Software Engineer at Pinterest"
       },
       food: {
@@ -120,7 +120,7 @@ export default function getDays() {
         url:'https://www.telegraph.co.uk/health-fitness/body/10-essential-yoga-poses-beginners/'
       },
       quote: {
-        quote: "I have very personally felt the overwhelming loneliness, self-doubt, and frustration that often comes with the minority status of a woman in engineering. As much as I can help others get through or avoid those difficult stretches that I myself had to weather, I’d like to. As a bonus, the more women (and minorities) that enter and don’t leave the field, the better it all gets for everyone, including me!",
+        quote: ") I realized that if my thoughts immediately affect my body, I should be careful about what I think. Now if I get angry, I ask myself why I feel that way. If I can find the source of my anger, I can turn that negative energy into something positive. ",
         quoter: "Tracy Chou, Software Engineer at Pinterest"
       },
       food: {
@@ -148,7 +148,7 @@ export default function getDays() {
         url:'https://www.nerdfitness.com/blog/strength-training-101-how-to-squat-properly/'
       },
       quote: {
-        quote: "I have very personally felt the overwhelming loneliness, self-doubt, and frustration that often comes with the minority status of a woman in engineering. As much as I can help others get through or avoid those difficult stretches that I myself had to weather, I’d like to. As a bonus, the more women (and minorities) that enter and don’t leave the field, the better it all gets for everyone, including me!",
+        quote: "Stop saying these negative things about yourself. Look in the mirror and find something about yourself that's positive and celebrate that!",
         quoter: "Tracy Chou, Software Engineer at Pinterest"
       },
       food: {
@@ -176,7 +176,7 @@ export default function getDays() {
         url:'https://yurielkaim.com/push-up-variations/'
       },
       quote: {
-        quote: "I have very personally felt the overwhelming loneliness, self-doubt, and frustration that often comes with the minority status of a woman in engineering. As much as I can help others get through or avoid those difficult stretches that I myself had to weather, I’d like to. As a bonus, the more women (and minorities) that enter and don’t leave the field, the better it all gets for everyone, including me!",
+        quote: "You are the sum total of everything you've ever seen, heard, eaten, smelled, been told, forgot - it's all there. Everything influences each of us, and because of that I try to make sure that my experiences are positive",
         quoter: "Tracy Chou, Software Engineer at Pinterest"
       },
       food: {
@@ -204,7 +204,7 @@ export default function getDays() {
         url:'https://www.keepinspiring.me/10-simple-exercises-to-improve-posture/'
       },
       quote: {
-        quote: "I have very personally felt the overwhelming loneliness, self-doubt, and frustration that often comes with the minority status of a woman in engineering. As much as I can help others get through or avoid those difficult stretches that I myself had to weather, I’d like to. As a bonus, the more women (and minorities) that enter and don’t leave the field, the better it all gets for everyone, including me!",
+        quote: "Leaders must exemplify integrity and earn the trust of their teams through their everyday actions. When you do this, you set high standards for everyone at your company. And when you do so with positive energy and enthusiasm for shared goals and purpose, you can deeply connect with your team and customers. ",
         quoter: "Tracy Chou, Software Engineer at Pinterest"
       },
       food: {
